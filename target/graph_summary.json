@@ -1,0 +1,1 @@
+{"_invocation_id": "1a519463-454f-493c-9b5e-4c14d83bea26", "linked": {"0": {"name": "model.healthcare_analytics.my_first_dbt_model", "type": "model", "succ": [1, 2]}, "1": {"name": "test.healthcare_analytics.unique_my_first_dbt_model_id.16e066b321", "type": "test"}, "2": {"name": "test.healthcare_analytics.not_null_my_first_dbt_model_id.5fb22c2710", "type": "test"}}}

@@ -1,0 +1,20 @@
+# Ignore Python virtual environment folder
+venv/
+
+# Ignore DBT logs
+logs/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore local profile with credentials (optional)
+profiles.yml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor config files (optional)
+.vscode/
+.idea/
